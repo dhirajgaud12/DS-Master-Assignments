@@ -1,0 +1,38 @@
+Assignment – 1
+
+1) Who Developed Python Programming Language? Guido van Rossum
+
+2) Which type of programming does Python support – Dynamic Typing & Object Oriented Programming
+
+3) Is Python case sensitive in dealing with Identifiers ?  Yes
+
+4) What is the correct extension of the Python file? “.py”
+
+5) Is Python code complied or interpreted ? – Interpreted language
+
+6) Name a few blocks of code used to define in python language – company=”ineuron”,
+Company=”PWSkills”
+7) Character for single line comment in python – ‘#’
+
+8) Function for finding current python version - python_version()
+
+9) python supports the creation of anonymous functions at runtime using a construct called – ‘Lambda’
+
+10) what does pip stand for python - preferred installer program
+
+11) Python build in functions – type(),print(),python_version(),int(),str()
+
+12) maximum possible length of an identifier in python – 79 characters
+
+13) Benefits of using python – Easy to write code, 137000 libraries, More job opportunities, Easy to learn.
+
+14) how is memory managed in python- Memory is manager by Python Manager.
+
+15) how to install python on windows and set path variable – 
+a) Right click on my pc
+b) Click advanced system setting
+c) Click environment variable
+d) Select system variable section and select path variable and click on edit.
+e) Add new python and put the path where python installed. 
+
+16) Is indentation required in python - Yes
